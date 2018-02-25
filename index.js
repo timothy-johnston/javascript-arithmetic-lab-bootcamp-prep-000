@@ -22,4 +22,4 @@ function dec(n) {
  return n--
 }
 
-
+makeInt(n)
