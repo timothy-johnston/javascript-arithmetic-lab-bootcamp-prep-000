@@ -10,17 +10,8 @@ function multiply(a,b) {
   return a*b
 }
 
-function divide(a,b) {
-  return a/b
-}
-
-function inc(n) {
-  n++
-}
 
 function dec(n) {
   n--
 }
 
-
-}
